@@ -1,0 +1,2 @@
+2025. 05. 11. (일) 19:35:21 KST
+-r-x------ 1 jeongmyeongjun jeongmyeongjun 29  5월 11 19:34 private.sh
